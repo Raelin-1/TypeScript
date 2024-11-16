@@ -17,10 +17,7 @@ class Cart {
         return this._items.reduce((total, item) => total + (item.price * (discount / 100)), 0);
     }
     deleteItem(id) {
-        const finder = (item) => item.id === id;
-        const indexItem = this._items.findIndex(finder);
-        this._items.splice(indexItem, 1);
-        return this._items.findIndex(finder) === -1;
+        return (this._items = this._items.filter(item => item.id !== id));
     }
 }
 exports.default = Cart;

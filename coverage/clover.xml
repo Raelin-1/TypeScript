@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1731627721410" clover="3.2.0">
-  <project timestamp="1731627721410" name="All files">
-    <metrics statements="21" coveredstatements="21" conditionals="0" coveredconditionals="0" methods="10" coveredmethods="10" elements="31" coveredelements="31" complexity="0" loc="21" ncloc="21" packages="2" files="3" classes="3"/>
+<coverage generated="1731783155553" clover="3.2.0">
+  <project timestamp="1731783155553" name="All files">
+    <metrics statements="18" coveredstatements="18" conditionals="0" coveredconditionals="0" methods="10" coveredmethods="10" elements="28" coveredelements="28" complexity="0" loc="18" ncloc="18" packages="2" files="3" classes="3"/>
     <package name="class">
-      <metrics statements="20" coveredstatements="20" conditionals="0" coveredconditionals="0" methods="10" coveredmethods="10"/>
+      <metrics statements="17" coveredstatements="17" conditionals="0" coveredconditionals="0" methods="10" coveredmethods="10"/>
       <file name="Cart.js" path="C:\Users\Mapa\Desktop\netology\ajs-homeworks\ajs-homework\TypeScript\class\Cart.js">
-        <metrics statements="11" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="9" coveredmethods="9"/>
+        <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="9" coveredmethods="9"/>
         <line num="2" count="2" type="stmt"/>
         <line num="5" count="10" type="stmt"/>
         <line num="8" count="14" type="stmt"/>
@@ -13,10 +13,7 @@
         <line num="14" count="4" type="stmt"/>
         <line num="17" count="4" type="stmt"/>
         <line num="20" count="4" type="stmt"/>
-        <line num="21" count="2" type="stmt"/>
-        <line num="22" count="2" type="stmt"/>
         <line num="23" count="2" type="stmt"/>
-        <line num="26" count="2" type="stmt"/>
       </file>
       <file name="Movie.js" path="C:\Users\Mapa\Desktop\netology\ajs-homeworks\ajs-homework\TypeScript\class\Movie.js">
         <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
